@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713823228242",
+    "project_id": "modulauth",
+    "storage_bucket": "modulauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713823228242:android:cae60bae8d1ed02c43aa8b",
+        "android_client_info": {
+          "package_name": "com.example.modul_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713823228242-4v33pfivkccluba12acg5bss5umujd6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTgkKFDJwK1mN7XEI129eboP5eIeT9sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713823228242-4v33pfivkccluba12acg5bss5umujd6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
